@@ -1,0 +1,22 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <h1 class="f1">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+        {{ "<div class=\"calendly-inline-widget\" data-url=\"https://calendly.com/abbey-farm-equestrian/outdoor-arena\" style=\"min-width:320px;height:630px;\"></div>" | safeHTML }}
+        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+
+        {{ "<div class=\"calendly-inline-widget\" data-url=\"https://calendly.com/abbey-farm-equestrian/dog-pen\" style=\"min-width:320px;height:630px;\"></div>" | safeHTML }}
+        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+
+        {{ "<div class=\"calendly-inline-widget\" data-url=\"https://calendly.com/abbey-farm-equestrian/30min\" style=\"min-width:320px;height:630px;\"></div>" | safeHTML }}
+        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+      </div>
+    </article>
+  </div>
+{{ end }}
