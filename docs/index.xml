@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>Booking</title>
-      <link>https://abbeyfarmequestrian.github.io/booking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://abbeyfarmequestrian.github.io/booking/</guid>
-      <description>Book here</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://abbeyfarmequestrian.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,6 +51,15 @@
       <guid>https://abbeyfarmequestrian.github.io/contact/</guid>
       <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.
 Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+    <item>
+      <title>Facilities Hire</title>
+      <link>https://abbeyfarmequestrian.github.io/facilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abbeyfarmequestrian.github.io/facilities/</guid>
+      <description>Book our faciities here</description>
     </item>
     
   </channel>
