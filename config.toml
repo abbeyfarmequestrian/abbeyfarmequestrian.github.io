@@ -1,5 +1,5 @@
 title = "Abbey Farm Equestrian"
-baseURL = "http://example.org/"
+baseURL = "https://abbeyfarmequestrian.github.io/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
