@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Abbey Farm Equestrian on Abbey Farm Equestrian</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Welcome to Abbey Farm Equestrian on Abbey Farm Equestrian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2023 12:00:00 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cowboys with Craig</title>
+      <link>http://example.org/post/craig/</link>
+      <pubDate>Sun, 22 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>http://example.org/post/craig/</guid>
+      <description>An evening of jumping with Craig</description>
+    </item>
+    
+    <item>
+      <title>Showjumping with Maddy</title>
+      <link>http://example.org/post/maddy/</link>
+      <pubDate>Sun, 22 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>http://example.org/post/maddy/</guid>
+      <description>An evening of jumping with Maddy</description>
+    </item>
+    
+    <item>
+      <title>Showjumping with Rosie</title>
+      <link>http://example.org/post/rosie/</link>
+      <pubDate>Sun, 22 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>http://example.org/post/rosie/</guid>
+      <description>An evening of jumping with Rosie</description>
+    </item>
+    
+    <item>
+      <title>Trekkin Around</title>
+      <link>http://example.org/post/trek/</link>
+      <pubDate>Sun, 22 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>http://example.org/post/trek/</guid>
+      <description>An evening of Trek</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+  </channel>
+</rss>

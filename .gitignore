@@ -25,7 +25,6 @@ npm-debug.log
 /dist/
 /src/client.config.json
 /styleguide/
-/docs/
 
 /junit.xml
 partials/structure/stylesheet.html

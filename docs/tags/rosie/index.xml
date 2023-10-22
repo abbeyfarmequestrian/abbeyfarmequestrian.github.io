@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rosie on Abbey Farm Equestrian</title>
+    <link>http://example.org/tags/rosie/</link>
+    <description>Recent content in rosie on Abbey Farm Equestrian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="http://example.org/tags/rosie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showjumping with Rosie</title>
+      <link>http://example.org/post/rosie/</link>
+      <pubDate>Sun, 22 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>http://example.org/post/rosie/</guid>
+      <description>An evening of jumping with Rosie</description>
+    </item>
+    
+  </channel>
+</rss>
