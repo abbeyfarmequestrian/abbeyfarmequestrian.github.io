@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/about/</loc>
     <lastmod>2023-10-22T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/post/</loc>
     <lastmod>2023-10-22T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/</loc>
     <lastmod>2023-10-22T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/post/craig/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/post/craig/</loc>
     <lastmod>2023-10-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/maddy/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/tags/maddy/</loc>
     <lastmod>2023-10-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/rosie/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/tags/rosie/</loc>
     <lastmod>2023-10-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/post/maddy/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/post/maddy/</loc>
     <lastmod>2023-10-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/post/rosie/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/post/rosie/</loc>
     <lastmod>2023-10-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/tags/</loc>
     <lastmod>2023-10-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/post/trek/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/post/trek/</loc>
     <lastmod>2023-10-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://abbeyfarmequestrian.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

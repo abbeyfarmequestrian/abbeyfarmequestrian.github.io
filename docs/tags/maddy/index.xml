@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>maddy on Abbey Farm Equestrian</title>
-    <link>http://example.org/tags/maddy/</link>
+    <link>https://abbeyfarmequestrian.github.io/tags/maddy/</link>
     <description>Recent content in maddy on Abbey Farm Equestrian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="http://example.org/tags/maddy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://abbeyfarmequestrian.github.io/tags/maddy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cowboys with Craig</title>
-      <link>http://example.org/post/craig/</link>
+      <link>https://abbeyfarmequestrian.github.io/post/craig/</link>
       <pubDate>Sun, 22 Oct 2023 10:58:08 -0400</pubDate>
       
-      <guid>http://example.org/post/craig/</guid>
+      <guid>https://abbeyfarmequestrian.github.io/post/craig/</guid>
       <description>An evening of jumping with Craig</description>
     </item>
     
     <item>
       <title>Showjumping with Maddy</title>
-      <link>http://example.org/post/maddy/</link>
+      <link>https://abbeyfarmequestrian.github.io/post/maddy/</link>
       <pubDate>Sun, 22 Oct 2023 10:58:08 -0400</pubDate>
       
-      <guid>http://example.org/post/maddy/</guid>
+      <guid>https://abbeyfarmequestrian.github.io/post/maddy/</guid>
       <description>An evening of jumping with Maddy</description>
     </item>
     
     <item>
       <title>Trekkin Around</title>
-      <link>http://example.org/post/trek/</link>
+      <link>https://abbeyfarmequestrian.github.io/post/trek/</link>
       <pubDate>Sun, 22 Oct 2023 10:58:08 -0400</pubDate>
       
-      <guid>http://example.org/post/trek/</guid>
+      <guid>https://abbeyfarmequestrian.github.io/post/trek/</guid>
       <description>An evening of Trek</description>
     </item>
     

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Abbey Farm Equestrian</title>
-    <link>http://example.org/about/</link>
+    <link>https://abbeyfarmequestrian.github.io/about/</link>
     <description>Recent content in About on Abbey Farm Equestrian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Oct 2023 12:00:00 -0500</lastBuildDate><atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://abbeyfarmequestrian.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
